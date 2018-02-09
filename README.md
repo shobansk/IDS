@@ -1,1 +1,2 @@
 # IDS
+Network-based Intrusion Detection Systems (IDS) use raw network packets as the data source. Snort is a light weight IDS, which uses a bunch of build-in rules and user customized rules to prevent prospective intruder from intruding in a network system. This discuss installation procedure for Snort as well as other products that work with Snort, components of Snort, and most frequently used functions. 
